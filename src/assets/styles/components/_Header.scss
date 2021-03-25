@@ -1,0 +1,38 @@
+.header {
+    height: 820px;
+    width: 50em;
+    background-color: #111111;
+    padding: 65px 167px;
+    & .header-logo {
+        width: 103px;
+        height: 40px;
+    }
+    & .header-text {
+        width: 453px;
+        & .header-title {
+            color: white;
+            font-size: 64px;
+            font-family: Spartan-Light;
+        }
+        & .header-desc {
+            color: white;
+            font-size: 18px;
+            font-family: Spartan-Regular;
+        }
+        & .btn-book {
+            width: 245px;
+            height: 64px;
+            background-color: #111111;
+            color: white;
+            font-family: Spartan-SemiBold;
+            font-size: 14px;
+            border: 1px groove white;
+        }
+    }
+    & .hl-header-img {
+        z-index: -1;
+        position: absolute;
+        top: 0;
+        right: 0px;
+    }
+}
