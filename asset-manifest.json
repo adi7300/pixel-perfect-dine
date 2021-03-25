@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect-dine/static/css/main.d377e545.chunk.css",
+    "main.js": "/pixel-perfect-dine/static/js/main.0ac54746.chunk.js",
+    "main.js.map": "/pixel-perfect-dine/static/js/main.0ac54746.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect-dine/static/js/runtime-main.8500a433.js",
+    "runtime-main.js.map": "/pixel-perfect-dine/static/js/runtime-main.8500a433.js.map",
+    "static/js/2.7f952b84.chunk.js": "/pixel-perfect-dine/static/js/2.7f952b84.chunk.js",
+    "static/js/2.7f952b84.chunk.js.map": "/pixel-perfect-dine/static/js/2.7f952b84.chunk.js.map",
+    "static/js/3.752899d6.chunk.js": "/pixel-perfect-dine/static/js/3.752899d6.chunk.js",
+    "static/js/3.752899d6.chunk.js.map": "/pixel-perfect-dine/static/js/3.752899d6.chunk.js.map",
+    "index.html": "/pixel-perfect-dine/index.html",
+    "static/css/main.d377e545.chunk.css.map": "/pixel-perfect-dine/static/css/main.d377e545.chunk.css.map",
+    "static/js/2.7f952b84.chunk.js.LICENSE.txt": "/pixel-perfect-dine/static/js/2.7f952b84.chunk.js.LICENSE.txt",
+    "static/media/hero-bg-desktop.jpg": "/pixel-perfect-dine/static/media/hero-bg-desktop.b1340563.jpg",
+    "static/media/icon-minus.svg": "/pixel-perfect-dine/static/media/icon-minus.a1f316e7.svg",
+    "static/media/logo.svg": "/pixel-perfect-dine/static/media/logo.f6ae2c4c.svg",
+    "static/media/menu-item1.jpg": "/pixel-perfect-dine/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.jpg": "/pixel-perfect-dine/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.jpg": "/pixel-perfect-dine/static/media/menu-item3.22eddbf1.jpg",
+    "static/media/pattern-divide.svg": "/pixel-perfect-dine/static/media/pattern-divide.bf6d0c5c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8500a433.js",
+    "static/js/2.7f952b84.chunk.js",
+    "static/css/main.d377e545.chunk.css",
+    "static/js/main.0ac54746.chunk.js"
+  ]
+}
